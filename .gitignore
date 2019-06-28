@@ -2,3 +2,8 @@
 *.iml
 DesktopApp/jni/.vs/
 DesktopApp/src/self/
+DesktopApp/debug/
+*.dll
+*.exp
+*.lib
+*.obj
