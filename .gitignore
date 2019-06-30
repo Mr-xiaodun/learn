@@ -1,2 +1,4 @@
 .idea/
 *.iml
+DesktopApp/jni/.vs/
+DesktopApp/src/self/
